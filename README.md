@@ -1,10 +1,7 @@
 <div align="center">
   <h1 align="center">Hola, soy Irving Allcca 👨‍💻</h1>
-  <h3 align="center">🚀 Estudiante de Ingeniería de Software | UPC (Décimo Superior)</h3>
+  <h3 align="center">🚀 Estudiante de Ingeniería de Software | UPC </h3>
   
-  <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=nwirving23&label=Profile%20Views&color=0e75b6&style=flat" alt="nwirving23" /> 
-  </p>
 
   <p align="center">
     <b>Mobile Developer & Backend Enthusiast</b> <br>
